@@ -93,7 +93,7 @@ pp kv.del("bar")
 pp kv.mdel(["foo", "bar"])
 # nil
 ```
-
+  
 ### GitHub::SQL
 
 ```ruby
@@ -223,3 +223,5 @@ Nothing currently on our radar other than continued maintenance. Have a big idea
 ## License
 
 The gem is available as open source under the terms of the [MIT License](http://opensource.org/licenses/MIT).
+
+### This is an amazing project.
